@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Database & Storage (Do not commit user data)
+backend/cloud_database.db
+cloud_storage_bucket/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+.DS_Store
